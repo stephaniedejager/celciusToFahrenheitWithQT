@@ -14,4 +14,4 @@ The following happens:
 
 - Converts the celcius temperature to fahrenheit temperature according to mathematical function in convertToFahrenheit(int celcius) method
 
-- Displays the result with a QMessagebox object
+- Displays the result with a QMessageBox object
