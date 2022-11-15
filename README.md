@@ -10,7 +10,7 @@ The following happens:
 
 - Create QApplition object
 
-- Gets celcius temperature input from user by displaying a QInputDialog object window |  input is String | cast to integer
+- Gets celcius temperature input from user by displaying a QInputDialog object window -  input is String -> cast to integer
 
 - Converts the celcius temperature to fahrenheit temperature according to mathematical function in convertToFahrenheit(int celcius) method
 
